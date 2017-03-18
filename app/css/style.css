@@ -1,0 +1,28 @@
+body{
+	font-family: Helvetica, sans-serif;
+	background-color: #EDB2FF;/*fond rose*/
+}
+/*START position contain bar+logo*/
+.recherche{margin-top: 15%;}
+/*END position contain bar+logo*/
+
+/*START lettres logo*/
+.blue{color: blue;}
+.rouge{color: red;}
+.jaune{color: yellow;}
+.vert{color: green;}
+h1{letter-spacing: 8px;font-size: 50px;font-weight: bold;}
+.logo{margin-bottom: 1%;}
+/*END lettres logo*/
+
+/*START Barre de Recherche */
+.search-bar{width: 50%;}
+.search-bar{height: 40px;
+	font-family: sans-serif;}
+	.loupe{
+		height: 35px;
+		margin-left: -52px;font-size: 20px;opacity: 0.6;
+		margin-bottom: 5px;
+		border-radius: 10px;}
+
+/*START Barre de Recherche*/
